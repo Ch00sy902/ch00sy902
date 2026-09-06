@@ -1,4 +1,4 @@
-# Hi, I'm Lilu
+# Hi, I'm CHOOSY
 
 I work on philosophy, humanities, writing, and small web-based knowledge projects.
 
