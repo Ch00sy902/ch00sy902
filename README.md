@@ -4,7 +4,7 @@ I work on philosophy, humanities, writing, and small web-based knowledge project
 
 ## Current project
 
-- [Lìlù Humanities Archive](https://liluhumanities.org) — a bilingual archive of concepts, thinkers, texts, essays, and further-reading paths.
+- **[Lìlù Humanities Archive](https://liluhumanities.org)** — a bilingual archive of concepts, thinkers, texts, essays, and further-reading paths.
 
 ## Interests
 
